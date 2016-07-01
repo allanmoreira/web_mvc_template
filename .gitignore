@@ -10,3 +10,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+spring_web_mvc/.idea/
+spring_web_mvc/target/
+spring_web_mvc/SpringWebMVC.iml
